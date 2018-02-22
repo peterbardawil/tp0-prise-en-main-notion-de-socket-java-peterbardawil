@@ -24,6 +24,7 @@ Mode          | (hybride)
 - Renvoyer le travail dans un de vos fork (push)
 - Faire des commentaires en ligne dans les demandes de tirage (pull request)
 - Faire éventuellement pull des corrections
+- Écrire votre premier client/server avec socket TCP en Java
 
 ## Installer (pré-requis)
 
@@ -50,6 +51,13 @@ Temps        | Sujet
 (10mn)|Faire pullrequest dans le projet de la classroom
 (5mn)|avertir l'enseignant dans le projet de base de l'enseignant ([ici](https://github.com/clpf2018/2018-accov-tp0/issues))
 
+# Réaliser le client/serveur tel que définie par
+
+[Client TCP algo](https://github.com/ljug/applicationconcurentes/blob/master/ConcurenceJava/ClientServeurMultiT/ClientTCP)
+
+et
+
+[Serveur TCP algo](https://github.com/ljug/applicationconcurentes/blob/master/ConcurenceJava/ClientServeurMultiT/ServerTCP)
 
 # Liens complémentaire
 
